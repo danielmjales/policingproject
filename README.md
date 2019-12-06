@@ -20,9 +20,9 @@ Here is the workflow of this project:
 
 Following the workflow, the first step in this project was to obtain the database and load it into a Jupyter Notebook. 
 
-After this, we took a look at how the data was stored and how the information was distributed using some methods of the Pandas library. I did some cleaning on the dataset and you can read about it more carefully in the Notebook. 
+After this, I took a look at how the data was stored and how the information was distributed using some methods of the Pandas library. I did some cleaning on the dataset and you can read about it more carefully in the Notebook. 
 
-The third step was the basic exploratory data analysis. From the dataset, I plotted some graphics to had a better understanding of how all the information was disposed. It is common that data scientists find something to correct during this process what leads them to the cleaning part of the process again (see workflow). Take a look at one of the figures we created using Folium and Shapely:
+The third step was the basic exploratory data analysis. From the dataset, I plotted some graphics to had a better understanding of how all the information was disposed. It is common that data scientists find something to correct during this process what leads them to the cleaning part of the process again (see workflow figue). Take a look at one of the maps I plotted using Folium and Shapely:
 
 ![Choropleth map of New Orleans](NewOrleansCity.png)
 
@@ -32,4 +32,4 @@ Continuing the workflow, the next phase is called modeling which I decided to us
 - Support Vector Classification - SVC
 - DecisionTreeClassifier
 
-Finally, we presented the results obtained.
+Finally, I presented the results obtained.
